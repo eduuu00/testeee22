@@ -125,7 +125,7 @@
         <p>Select your artist, watch the video and complete the lyrics!</p>
         
         <div class="artists">
-            <div class="artist" id="artist1" onclick="showVideo('https://video.wixstatic.com/video/964940_a42db9435e4d414986031745d1a64152/1080p/mp4/file.mp4', 'Me and my <span class=\'hidden-word\' onclick=\'revealWord(this)\'>truth</span>, we <span class=\'hidden-word\' onclick=\'revealWord(this)\'>sit</span> in silence. Baby <span class=\'hidden-word\' onclick=\'revealWord(this)\'>girl</span>, it\'s just me and <span class=\'hidden-word\' onclick=\'revealWord(this)\'>you</span>. \'Cause I don\'t wanna <span class=\'hidden-word\' onclick=\'revealWord(this)\'>argue</span>, but I don\'t wanna <span class=\'hidden-word\' onclick=\'revealWord(this)\'>bite</span>. My <span class=\'hidden-word\' onclick=\'revealWord(this)\'>tongue</span>, yeah, I think I <span class=\'hidden-word\' onclick=\'revealWord(this)\'>rather</span> die.', 'artist1')">
+            <div class="artist" id="artist1" onclick="showVideo('https://video.wixstatic.com/video/964940_a42db9435e4d414986031745d1a64152/1080p/mp4/file.mp4', 'Me and my <span class=\'hidden-word\' onclick=\'revealWord(this)\'>truth</span>, we <span class=\'hidden-word\' onclick=\'revealWord(this)\'>sit</span> in silence. Baby <span class=\'hidden-word\' onclick=\'revealWord(this)\'>girl</span>, it\'s just me and <span class=\'hidden-word\' onclick=\'revealWord(this)\'>you</span>. \'Cause I don\'t wanna <span class=\'hidden-word\' onclick=\'revealWord(this)\'>argue</span>, but I don\'t wanna <span class=\'hidden-word\' onclick=\'revealWord(this)\'>bite</span> my <span class=\'hidden-word\' onclick=\'revealWord(this)\'>tongue</span>, yeah, I think I <span class=\'hidden-word\' onclick=\'revealWord(this)\'>rather</span> die.', 'artist1')">
                 <img src="data/artist1.png">
                 <p>Ariana Grande</p>
             </div>
@@ -192,6 +192,7 @@
         <div id="lyricsContainer">
             <h1 class="lyrics" id="lyrics"></h1>
         </div>
+        <audio id="audio" src="data/audio1.mp3"></audio>
     </div>
 
 
@@ -211,6 +212,9 @@
             function revealWord(element) {
                 element.classList.add("revealed");
                 element.onclick = null;
+                let audio = document.getElementById("audio");
+                audio.currentTime = 0;
+                audio.play();
             }
 
             function goBack() {
