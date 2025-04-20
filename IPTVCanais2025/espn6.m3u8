@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1,ESPN6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
-#EXTVLCOPT:http-origin=https://embedtv-0.icu/
-#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
-https://s2.100mundial.icu/fontes/embedtv/espn6.m3u8
