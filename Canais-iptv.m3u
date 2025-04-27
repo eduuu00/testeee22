@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/Brazilepg,https://www.tdtchannels.com/epg/TV.xml.gz,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,#https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 26/04 16:50
+# Canais IPTV - Atualizado: 27/04 17:20
 
 
 --- PORTUGAL
@@ -984,18 +984,22 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
 #EXTINF:-1 cuid="377" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record ʀᴊ 🇧🇷
 http://185.246.208.74:14660
 #EXTINF:-1 cuid="378" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record 🇧🇷
-http://185.236.183.117:14567
+http://185.236.183.117:14572
+#EXTINF:-1 cuid="379" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record (PP) 🇧🇷
+http://185.236.183.117:14576
+#EXTINF:-1 cuid="380" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record (PP) 🇧🇷
+http://new.m3u8.one/recordsp/index.m3u8
 
 
-#EXTINF:-1 cuid="380" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band 🇧🇷
+#EXTINF:-1 cuid="382" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band 🇧🇷
 http://15.235.50.115:14522
-#EXTINF:-1 cuid="381" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band PA (RBA TV) 🇧🇷
+#EXTINF:-1 cuid="383" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band PA (RBA TV) 🇧🇷
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 cuid="382" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band PB (TV Arapuan) 🇧🇷
+#EXTINF:-1 cuid="384" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band PB (TV Arapuan) 🇧🇷
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 cuid="383" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band SP (Vale Radio WebTV) 🇧🇷
+#EXTINF:-1 cuid="385" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band SP (Vale Radio WebTV) 🇧🇷
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
-#EXTINF:-1 cuid="384" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band PA (TV Vale do Uruará) 🇧🇷
+#EXTINF:-1 cuid="386" tvg-name="Band 🇧🇷" tvg-id="BAND" tvg-logo="https://logo.iptveditor.com/band.png" group-title="Abertos",Band PA (TV Vale do Uruará) 🇧🇷
 https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8
 
 
@@ -1003,39 +1007,41 @@ https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8
 https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 cuid="389" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
 http://185.246.208.74:14367
-#EXTINF:-1 cuid="390" tvg-name="SBT Internacional 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Internacional 🇧🇷
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
-#EXTINF:-1 cuid="391" tvg-chno="364" tvg-name="SBT MT" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT MT 🇧🇷
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 cuid="392" tvg-name="SBT Interior" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Interior 🇧🇷
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 cuid="393" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
+#EXTINF:-1 cuid="390" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
 http://185.236.183.117:14597
-#EXTINF:-1 cuid="394" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT (TV Cidade Verde) 🇧🇷
+#EXTINF:-1 cuid="391" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
+http://new.m3u8.one/sbt/index.m3u8
+#EXTINF:-1 cuid="392" tvg-name="SBT Internacional 🇧🇷" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Internacional 🇧🇷
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+#EXTINF:-1 cuid="393" tvg-chno="364" tvg-name="SBT MT" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT MT 🇧🇷
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 cuid="394" tvg-name="SBT Interior" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Interior 🇧🇷
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 cuid="395" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT (TV Cidade Verde) 🇧🇷
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 cuid="395" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Interior 🇧🇷
+#EXTINF:-1 cuid="396" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Interior 🇧🇷
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
 
-#EXTINF:-1 cuid="396" tvg-name="TV Brasil 🇧🇷" tvg-id="TVBRASIL" tvg-logo="https://logo.iptveditor.com/tvbrasil.png" group-title="Abertos",Tv Brasil Internacional 🇧🇷
+#EXTINF:-1 cuid="397" tvg-name="TV Brasil 🇧🇷" tvg-id="TVBRASIL" tvg-logo="https://logo.iptveditor.com/tvbrasil.png" group-title="Abertos",Tv Brasil Internacional 🇧🇷
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 cuid="397" tvg-name="TV Brasil Internacional 🇧🇷" tvg-id="TVBRASIL" tvg-logo="https://logo.iptveditor.com/tvbrasil.png" group-title="Abertos",Tv Brasil Internacional 🇧🇷
+#EXTINF:-1 cuid="398" tvg-name="TV Brasil Internacional 🇧🇷" tvg-id="TVBRASIL" tvg-logo="https://logo.iptveditor.com/tvbrasil.png" group-title="Abertos",Tv Brasil Internacional 🇧🇷
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 cuid="398" tvg-name="WTV Brasil 🇧🇷" tvg-id="WTVBRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="Abertos",WTV Brasil 🇧🇷
+#EXTINF:-1 cuid="399" tvg-name="WTV Brasil 🇧🇷" tvg-id="WTVBRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="Abertos",WTV Brasil 🇧🇷
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:-1 cuid="399" tvg-name="Canal GOV" tvg-id="CANALGOV" tvg-logo="https://logo.iptveditor.com/canalgov.png" group-title="Abertos",Canal GOV 🇧🇷
+#EXTINF:-1 cuid="400" tvg-name="Canal GOV" tvg-id="CANALGOV" tvg-logo="https://logo.iptveditor.com/canalgov.png" group-title="Abertos",Canal GOV 🇧🇷
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 cuid="400" tvg-name="RedeTV! 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! 🇧🇷
+#EXTINF:-1 cuid="401" tvg-name="RedeTV! 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV! 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&deviceDNT=0
-#EXTINF:-1 cuid="401" tvg-name="RedeTV! Mais" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! Mais
+#EXTINF:-1 cuid="402" tvg-name="RedeTV! Mais" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Abertos",RedeTV! Mais
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 cuid="402" tvg-name="RedeTV!ᴘʀ 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV!ᴘʀ 🇧🇷
+#EXTINF:-1 cuid="403" tvg-name="RedeTV!ᴘʀ 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",RedeTV!ᴘʀ 🇧🇷
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w492224410.m3u8
-#EXTINF:-1 cuid="403" tvg-name="Rede Minas 🇧🇷" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",Rede Minas 🇧🇷
+#EXTINF:-1 cuid="404" tvg-name="Rede Minas 🇧🇷" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Abertos",Rede Minas 🇧🇷
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 cuid="404" tvg-name="RedeTV! GO" tvg-logo="https://redetvgo.com.br/client/assets/logo/logo-oficial.png" group-title="Abertos",RedeTV! GO 🇧🇷
+#EXTINF:-1 cuid="405" tvg-name="RedeTV! GO" tvg-logo="https://redetvgo.com.br/client/assets/logo/logo-oficial.png" group-title="Abertos",RedeTV! GO 🇧🇷
 https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8
 
 #EXTINF:-1 cuid="407" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="Abertos",Curta! 🇧🇷
@@ -1085,7 +1091,7 @@ https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:-1 cuid="423" tvg-name="D+ TV 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PRINCIPAL_PEQUENO_qFeyD6F.png" group-title="Entretenimento",D+ TV 🇧🇷
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 cuid="424" tvg-name="Master show tv 🇧🇷" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Entretenimento",Master show tv 🇧🇷
+#EXTINF:-1 cuid="424" tvg-name="Master Show TV 🇧🇷" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Entretenimento",Master Show TV 🇧🇷
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 
 #EXTINF:-1 cuid="425" tvg-name="TVE 🇧🇷" tvg-id="TVE" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="Entretenimento",TVE 🇧🇷
@@ -1100,18 +1106,15 @@ https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 cuid="428" tvg-name="Miss Universo 🇧🇷" tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg" group-title="Entretenimento",Miss Universo 🇧🇷
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 
-#EXTINF:-1 cuid="432" tvg-name="Fish TV 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Entretenimento",Fish TV 🇧🇷
+#EXTINF:-1 cuid="430" tvg-name="Fish TV 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Entretenimento",Fish TV 🇧🇷
 http://15.235.11.7:14165
-#EXTINF:-1 cuid="433" tvg-name="Fish TV 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Entretenimento",Fish TV 🇧🇷
+#EXTINF:-1 cuid="431" tvg-name="Fish TV 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Entretenimento",Fish TV 🇧🇷
 http://185.236.183.117:14205
 
-#EXTINF:-1 cuid="434" tvg-name="Fish TV 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Entretenimento",Fish TV 🇧🇷
-http://15.235.11.7:14165
-#EXTINF:-1 cuid="435" tvg-name="Fish TV 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="Entretenimento",Fish TV 🇧🇷
-http://185.236.183.117:14205
-
-#EXTINF:-1 cuid="436" tvg-name="Food Network 🇧🇷" tvg-id="FOODNETWORK" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="Entretenimento",Food Network 🇧🇷
+#EXTINF:-1 cuid="432" tvg-name="Food Network 🇧🇷" tvg-id="FOODNETWORK" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="Entretenimento",Food Network 🇧🇷
 http://15.235.11.7:14168
+#EXTINF:-1 cuid="432" tvg-name="Food Network 🇧🇷" tvg-id="FOODNETWORK" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="Entretenimento",Food Network 🇧🇷
+http://185.236.183.118:14211
 
 
 --- ESPANHA
@@ -1939,23 +1942,21 @@ http://190.60.34.46:9999/play/a0p8/index.m3u8
 
 #EXTINF:-1 cuid="923" tvg-name="Fussball SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="Esportes",Fussball SportDigital 🇩🇪
 http://ua.1usd.tv:34000/ch2006/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtnDqWF_v_v7VMsmVq4PVsMKczhGxhL7TKlJFypvq3bcH
-#EXTINF:-1 cuid="924" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="Esportes",SportDigital 🇩🇪
-http://tv.cloudcdn.me:80/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
 
-#EXTINF:-1 cuid="925" tvg-name="Eleven sports 2 🇵🇱" tvg-id="Eleven.Sports.2.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="Esportes",Eleven sports 2 🇵🇱
-http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16498.ts
-#EXTINF:-1 cuid="926" tvg-name="Eleven sports 3 🇵🇱" tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="Esportes",Eleven sports 3 🇵🇱
-http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16499.m3u8
+#EXTINF:-1 cuid="924" tvg-name="Eleven sports 2 🇵🇱" tvg-id="Eleven.Sports.2.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="Esportes",Eleven sports 2 🇵🇱
+http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16498.m3u8
+#EXTINF:-1 cuid="925" tvg-name="Eleven sports 3 🇵🇱" tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="Esportes",Eleven sports 3 🇵🇱
+http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16499.m3u8
 
-#EXTINF:-1 cuid="927" tvg-name="" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="Esportes",Espetinho de frutas Caramelizadas 2 🇵🇹 [Test]
+#EXTINF:-1 cuid="926" tvg-name="" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="Esportes",Espetinho de frutas Caramelizadas 2 🇵🇹 [Test]
 http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.m3u8
-#EXTINF:-1 cuid="928" tvg-name="Ring 🇧🇬" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="Esportes",Macarrão com Queijo 3 🇵🇹 [Test]
+#EXTINF:-1 cuid="927" tvg-name="Ring 🇧🇬" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="Esportes",Macarrão com Queijo 3 🇵🇹 [Test]
 http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.m3u8
 
-#EXTINF:-1 cuid="929" tvg-name="Sport 1 🇱🇻" tvg-logo="https://ltkanalai.eu/wp-content/uploads/2015/06/sport1-logo.png" group-title="Esportes",Sport 1 🇱🇻
+#EXTINF:-1 cuid="928" tvg-name="Sport 1 🇱🇻" tvg-logo="https://ltkanalai.eu/wp-content/uploads/2015/06/sport1-logo.png" group-title="Esportes",Sport 1 🇱🇻
 http://ua.1usd.tv:34000/ch676/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtlcvKwROU6CMGQ3mZCgNlO2QbUCkLKgHWx0YTt_SHm5o
 
-#EXTINF:-1 cuid="930" tvg-name="SSC1 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-title="Esportes",SSC1 🇸🇦
+#EXTINF:-1 cuid="929" tvg-name="SSC1 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-title="Esportes",SSC1 🇸🇦
 http://154.58.202.185:8000/play/a06h
 
 
@@ -1964,8 +1965,6 @@ http://new.m3u8.one/bandsport/index.m3u8
 #EXTINF:-1 cuid="801" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
 http://185.236.183.117:14048
 
-#EXTINF:-1 cuid="803" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
-https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc0NTc1MzE4MiwiaWF0IjoxNzQ1NjY2NzgyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImU4MmUxOGMyLTVjZTItNGQ2NC1iMzliLTgzNWUyN2YwMGI3ZiIsInBhdGgiOiIvbnUvZihiTWF4PTIyNjI5NzYsaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.tzdWE4pqCFOPm59twohNwhy4hHrwvnAS52gJlEiUiQkNeyfTzkIFUAGSwYqhfKh3j663eWECD8YrU-aULn2eESnrQi-U2Yo34TzgmLPaXUK9agWXEt_uKNY2zNnBn4mniEYZvpQEAeNQzqlQBHxjAeJhLJF77qTDo3cw2ijMVrJFXc1td34SmVJlZ9hiQHngVCxoN3cN3eur355ydia33jrgQqnBe6tj0i1CrT7WReVQTr1RNtEtOQrO_Yhz5X9yPv5tVuZfOYCaulNinSAMQ949meeoSsa7yCZgWosCEkmL7ia8L6U33HTfBKrLTKVEd0J7i_bPtqTlPJKLESeW1Q/nu/f(bMax=2262976,i=2)/spo124ha/spo124ha-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 cuid="804" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
 http://new.m3u8.one/sportv/index.m3u8
 #EXTINF:-1 cuid="805" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
@@ -1993,33 +1992,43 @@ http://new.m3u8.one/pre1/index.m3u8
 http://185.236.183.118:14508
 
 #EXTINF:-1 cuid="820" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
-http://185.246.208.74:14870
-#EXTINF:-1 cuid="823" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
 http://new.m3u8.one/pre2/index.m3u8
+#EXTINF:-1 cuid="821" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
+http://185.236.183.118:14512
 
-#EXTINF:-1 cuid="821" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
+#EXTINF:-1 cuid="822" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
 http://new.m3u8.one/pre3/index.m3u8
+#EXTINF:-1 cuid="823" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
+http://185.236.183.118:14516
 
-#EXTINF:-1 cuid="822" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
+#EXTINF:-1 cuid="824" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
 http://new.m3u8.one/pre4/index.m3u8
+#EXTINF:-1 cuid="825" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
+http://185.236.183.118:14520
 
-#EXTINF:-1 cuid="824" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+#EXTINF:-1 cuid="826" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+http://185.246.208.74:14870
+#EXTINF:-1 cuid="827" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
 http://new.m3u8.one/pre5/index.m3u8
+#EXTINF:-1 cuid="828" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+http://185.236.183.118:14524
 
-#EXTINF:-1 cuid="826" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
+#EXTINF:-1 cuid="829" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
 http://new.m3u8.one/pre6/index.m3u8
+#EXTINF:-1 cuid="830" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
+http://185.236.183.118:14528
 
-#EXTINF:-1 cuid="827" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
+#EXTINF:-1 cuid="831" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
 http://new.m3u8.one/pre7/index.m3u8
 
-#EXTINF:-1 cuid="832" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol 🇧🇷
-http://185.236.183.118:14657
-#EXTINF:-1 cuid="833" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 🇧🇷
+#EXTINF:-1 cuid="835" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol 🇧🇷
+#http://185.236.183.118:14657
+#EXTINF:-1 cuid="836" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 🇧🇷
 http://15.235.9.200:14069
-#EXTINF:-1 cuid="834" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 2 🇧🇷
-http://185.236.183.118:14336
+#EXTINF:-1 cuid="837" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 2 🇧🇷
+#http://185.236.183.118:14336
 
-#EXTINF:-1 cuid="836" tvg-name="Cazé TV Eventos 🇧🇷 ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-title="Esportes",Cazé tv Eventos 🇧🇷 ⚽️
+#EXTINF:-1 cuid="838" tvg-name="Cazé TV Eventos 🇧🇷 ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-title="Esportes",Cazé tv Eventos 🇧🇷 ⚽️
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
