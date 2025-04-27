@@ -981,23 +981,23 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8
 
 
-#EXTINF:-1 cuid="388" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
+#EXTINF:-1 cuid="388" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
 https://aovivo.maissbt.com/index.m3u8
-#EXTINF:-1 cuid="389" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
+#EXTINF:-1 cuid="389" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
 http://185.246.208.74:14367
-#EXTINF:-1 cuid="390" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
+#EXTINF:-1 cuid="390" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
 http://185.236.183.117:14597
-#EXTINF:-1 cuid="391" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT 🇧🇷
+#EXTINF:-1 cuid="391" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
 http://new.m3u8.one/sbt/index.m3u8
-#EXTINF:-1 cuid="392" tvg-name="SBT Internacional 🇧🇷" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Internacional 🇧🇷
+#EXTINF:-1 cuid="392" tvg-name="SBT Internacional 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Internacional 🇧🇷
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
-#EXTINF:-1 cuid="393" tvg-chno="364" tvg-name="SBT MT" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT MT 🇧🇷
+#EXTINF:-1 cuid="393" tvg-chno="364" tvg-name="SBT MT" tvg-id="SBTSP" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT MT 🇧🇷
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 cuid="394" tvg-name="SBT Interior" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Interior 🇧🇷
+#EXTINF:-1 cuid="394" tvg-name="SBT Interior" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Interior 🇧🇷
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 cuid="395" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT (TV Cidade Verde) 🇧🇷
+#EXTINF:-1 cuid="395" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT (TV Cidade Verde) 🇧🇷
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 cuid="396" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Abertos",SBT Interior 🇧🇷
+#EXTINF:-1 cuid="396" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Interior 🇧🇷
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
 
