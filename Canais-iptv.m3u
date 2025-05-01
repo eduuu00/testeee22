@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 30/04 21:00
+# Canais IPTV - Atualizado: 01/05
 
 
 --- PORTUGAL
@@ -1991,11 +1991,6 @@ http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16498.m3u8
 #EXTINF:-1 cuid="925" tvg-name="Eleven sports 3 🇵🇱" tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="Esportes",Eleven sports 3 🇵🇱
 http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16499.m3u8
 
-#EXTINF:-1 cuid="926" tvg-name="" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="Esportes",Espetinho de frutas Caramelizadas 2 🇵🇹 [Test]
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.m3u8
-#EXTINF:-1 cuid="927" tvg-name="Ring 🇧🇬" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="Esportes",Macarrão com Queijo 3 🇵🇹 [Test]
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.m3u8
-
 #EXTINF:-1 cuid="928" tvg-name="Sport 1 🇱🇻" tvg-logo="https://ltkanalai.eu/wp-content/uploads/2015/06/sport1-logo.png" group-title="Esportes",Sport 1 🇱🇻
 http://ua.1usd.tv:34000/ch676/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtlcvKwROU6CMGQ3mZCgNlO2QbUCkLKgHWx0YTt_SHm5o
 
@@ -2050,30 +2045,39 @@ http://new.m3u8.one/pre4/index.m3u8
 http://185.236.183.118:14520
 
 #EXTINF:-1 cuid="826" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
-http://185.246.208.74:14870
-#EXTINF:-1 cuid="827" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
 http://new.m3u8.one/pre5/index.m3u8
-#EXTINF:-1 cuid="828" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+#EXTINF:-1 cuid="827" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
 http://185.236.183.118:14524
 
-#EXTINF:-1 cuid="829" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
+#EXTINF:-1 cuid="828" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
 http://new.m3u8.one/pre6/index.m3u8
-#EXTINF:-1 cuid="830" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
+#EXTINF:-1 cuid="829" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
 http://185.236.183.118:14528
 
+#EXTINF:-1 cuid="830" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+http://185.246.208.74:14870
 #EXTINF:-1 cuid="831" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
 http://new.m3u8.one/pre7/index.m3u8
 
-#EXTINF:-1 cuid="835" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol 🇧🇷
+#EXTINF:-1 cuid="832" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol 🇧🇷
 #http://185.236.183.118:14657
-#EXTINF:-1 cuid="836" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 🇧🇷
+#EXTINF:-1 cuid="833" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 🇧🇷
 http://15.235.9.200:14069
-#EXTINF:-1 cuid="837" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 2 🇧🇷
+#EXTINF:-1 cuid="834" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 2 🇧🇷
 #http://185.236.183.118:14336
 
-#EXTINF:-1 cuid="838" tvg-name="Cazé TV Eventos 🇧🇷 ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-title="Esportes",Cazé tv Eventos 🇧🇷 ⚽️
+#EXTINF:-1 cuid="835" tvg-name="Cazé TV 🇧🇷 ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-title="Esportes",Cazé TV 🇧🇷 ⚽️
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+#EXTINF:-1 cuid="836" tvg-name="Disney+ 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 🇧🇷 ⚽️
+http://185.236.183.118:14044
+#EXTINF:-1 cuid="837" tvg-name="Disney+ 2 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 2 🇧🇷 ⚽️
+http://185.236.183.118:14045
+#EXTINF:-1 cuid="838" tvg-name="Disney+ 3 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 3 🇧🇷 ⚽️
+http://185.236.183.118:14046
+
+#EXTINF:-1 cuid="839" tvg-name="Prime Video 🇧🇷 ⚽️" tvg-logo="https://img.icons8.com/?size=512&id=Rs68BrhxH0XZ&format=png" group-title="Esportes",Prime Video 🇧🇷 ⚽️
+http://185.236.183.118:14047
 
 
 #EXTINF:-1 cuid="840" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Esportes",tdp 🇪🇸
@@ -2090,7 +2094,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 #EXTINF:-1 cuid="844" tvg-name="Claro Sports" tvg-id="CLAROSPORTS.uy" tvg-logo="https://logo.iptveditor.com/clarosports.png" group-title="Esportes",Claro Sports
 http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8
 
-#EXTINF:-1 cuid="845" tvg-name="" tvg-id="TyC.Sports.International(TYCS).co" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Esportes",Tyc Sports 🇦🇷
+#EXTINF:-1 cuid="845" tvg-name="Tyc Sports" tvg-id="TyC.Sports.International(TYCS).co" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Esportes",Tyc Sports 🇦🇷
 http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8
 
 #EXTINF:-1 cuid="846" tvg-name="ESPN.Deportes" tvg-id="ESPN.Deportes.us" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="Esportes",ESPN Deportes 🇲🇽
@@ -4006,9 +4010,9 @@ http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 
 --- ESPORTES RADICAIS
 
-#EXTINF:-1 cuid="1548" tvg-name="Canal Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Canal Off 🇧🇷
+#EXTINF:-1 cuid="1548" tvg-name="Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Off 🇧🇷
 http://15.235.11.7:14075
-#EXTINF:-1 cuid="1549" tvg-name="Canal Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Canal Off 🇧🇷
+#EXTINF:-1 cuid="1549" tvg-name="Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Off 🇧🇷
 http://15.235.11.7:14076
 
 #EXTINF:-1 cuid="1551" tvg-name="Fuel tv (cc 🇧🇷)" tvg-id="Fuel.TV.HD.pt" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Esportes",Fuel tv (cc 🇧🇷)
