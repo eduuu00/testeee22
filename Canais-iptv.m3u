@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 03/05 17:50
+# Canais IPTV - Atualizado: 03/05
 
 
 --- PORTUGAL
@@ -937,15 +937,15 @@ http://185.236.183.118:14435
 #EXTINF:-1 cuid="339" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://logo.iptveditor.com/history.png" group-title="Documentarios",History 🇧🇷
 https://cdn-5.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 cuid="342" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Entretenimento",History 2 🇧🇷
+#EXTINF:-1 cuid="342" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Documentarios",History 2 🇧🇷
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16733.m3u8
-#EXTINF:-1 cuid="343" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Entretenimento",History 2 🇧🇷
+#EXTINF:-1 cuid="343" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Documentarios",History 2 🇧🇷
 http://185.236.183.117:14392
-#EXTINF:-1 cuid="344" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Entretenimento",History 2 🇧🇷
+#EXTINF:-1 cuid="344" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Documentarios",History 2 🇧🇷
 http://185.236.183.118:14391
-#EXTINF:-1 cuid="345" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Entretenimento",History 2 🇧🇷
+#EXTINF:-1 cuid="345" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Documentarios",History 2 🇧🇷
 http://new.m3u8.one/history2/index.m3u8
-#EXTINF:-1 cuid="346" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://logo.iptveditor.com/history.png" group-title="Documentarios",History 🇧🇷
+#EXTINF:-1 cuid="346" tvg-name="History 2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Documentarios",History 2 🇧🇷
 https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
 
