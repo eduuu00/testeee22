@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 12/05 18:00
+# Canais IPTV - Atualizado: 12/05 18:10
 
 
 --- PORTUGAL
@@ -1137,83 +1137,85 @@ https://cdn-5.nxplay.com.br/FISH_TV_NX_TK/tracks-v2a1/mono.m3u8
 --- ABERTOS
 #EXTINF:-1 cuid="431" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo sᴘ 🇧🇷 ⚽️
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1 cuid="432" tvg-name="Globo sᴘ (TV Tem) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo sᴘ 🇧🇷 ⚽️ (TV Tem)
-https://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 cuid="432" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo sᴘ 🇧🇷 ⚽️
+http://185.236.183.118:14228
 #EXTINF:-1 cuid="433" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo sᴘ 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/3943.m3u8
-#EXTINF:-1 cuid="434" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʀᴊ 🇧🇷 ⚽️
-http://79.127.238.228:14217
+#EXTINF:-1 cuid="434" tvg-name="Globo sᴘ (TV Tem) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo sᴘ 🇧🇷 ⚽️ (TV Tem)
+https://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 cuid="435" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʀᴊ 🇧🇷 ⚽️
+http://79.127.238.228:14217
+#EXTINF:-1 cuid="436" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʀᴊ 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/3945.m3u8
-#EXTINF:-1 cuid="436" tvg-name="Globo ʀᴊ (TV Rio Sul) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʀᴊ 🇧🇷 ⚽️ (TV Rio Sul)
+#EXTINF:-1 cuid="437" tvg-name="Globo ʀᴊ (TV Rio Sul) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʀᴊ 🇧🇷 ⚽️ (TV Rio Sul)
 https://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
-#EXTINF:-1 cuid="437" tvg-name="Globo ʙᴀ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʙᴀ 🇧🇷 ⚽️
+#EXTINF:-1 cuid="438" tvg-name="Globo ʙᴀ 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ʙᴀ 🇧🇷 ⚽️
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 cuid="438" tvg-name="Globo MG 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo MG 🇧🇷 ⚽️
+#EXTINF:-1 cuid="439" tvg-name="Globo MG 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo MG 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6746.m3u8
-#EXTINF:-1 cuid="439" tvg-name="Globo DF 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo DF 🇧🇷 ⚽️
+#EXTINF:-1 cuid="440" tvg-name="Globo DF 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo DF 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6752.m3u8
-#EXTINF:-1 cuid="440" tvg-name="Globo PE 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo PE 🇧🇷 ⚽️
+#EXTINF:-1 cuid="441" tvg-name="Globo PE 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo PE 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/3949.m3u8
-#EXTINF:-1 cuid="441" tvg-name="Globo AM (Rede Amazônica Manaus) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo AM (Rede Amazônica Manaus) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="442" tvg-name="Globo AM (Rede Amazônica Manaus) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo AM (Rede Amazônica Manaus) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6760.m3u8
-#EXTINF:-1 cuid="442" tvg-name="Globo AP (Rede Amazônica Macapá) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo AP (Rede Amazônica Macapá) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="443" tvg-name="Globo AP (Rede Amazônica Macapá) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo AP (Rede Amazônica Macapá) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6742.m3u8
-#EXTINF:-1 cuid="443" tvg-name="Globo RR (Rede Amazônica Boa Vista) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo RR (Rede Amazônica Boa Vista) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="444" tvg-name="Globo RR (Rede Amazônica Boa Vista) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo RR (Rede Amazônica Boa Vista) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6766.m3u8
-#EXTINF:-1 cuid="444" tvg-name="Globo PA (TV Liberal Belém) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo PA (TV Liberal Belém) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="445" tvg-name="Globo PA (TV Liberal Belém) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo PA (TV Liberal Belém) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6744.m3u8
-#EXTINF:-1 cuid="445" tvg-name="Globo CE (TV Verdes Mares Fortaleza) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo CE (TV Verdes Mares Fortaleza) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="446" tvg-name="Globo CE (TV Verdes Mares Fortaleza) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo CE (TV Verdes Mares Fortaleza) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6748.m3u8
-#EXTINF:-1 cuid="446" tvg-name="Globo MA (TV Mirante São Luiz) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo MA (TV Mirante São Luiz) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="447" tvg-name="Globo MA (TV Mirante São Luiz) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo MA (TV Mirante São Luiz) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6756.m3u8
-#EXTINF:-1 cuid="447" tvg-name="Globo GO (TV Anhanguera Goiânia) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo GO (TV Anhanguera Goiânia) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="448" tvg-name="Globo GO (TV Anhanguera Goiânia) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo GO (TV Anhanguera Goiânia) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6754.m3u8
-#EXTINF:-1 cuid="448" tvg-name="Globo ES (TV Gazeta Vitória) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ES (TV Gazeta Vitória) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="449" tvg-name="Globo ES (TV Gazeta Vitória) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo ES (TV Gazeta Vitória) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6772.m3u8
-#EXTINF:-1 cuid="449" tvg-name="Globo PR (RPC Curitiba) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo PR (RPC Curitiba) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="450" tvg-name="Globo PR (RPC Curitiba) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo PR (RPC Curitiba) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6750.m3u8
-#EXTINF:-1 cuid="450" tvg-name="Globo RS (RBS TV Porto Alegre) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo RS (RBS TV Porto Alegre) 🇧🇷 ⚽️
+#EXTINF:-1 cuid="451" tvg-name="Globo RS (RBS TV Porto Alegre) 🇧🇷 ⚽️" tvg-id="GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Abertos",Globo RS (RBS TV Porto Alegre) 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/6768.m3u8
 
 
-#EXTINF:-1 cuid="451" tvg-name="Record sᴘ 🇧🇷" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record sᴘ 🇧🇷
+#EXTINF:-1 cuid="452" tvg-name="Record sᴘ 🇧🇷" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record sᴘ 🇧🇷
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
-#EXTINF:-1 cuid="452" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record sᴘ 🇧🇷
-http://185.236.183.117:14572
 #EXTINF:-1 cuid="453" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record sᴘ 🇧🇷
-http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16748.m3u8
+http://185.236.183.117:14572
 #EXTINF:-1 cuid="454" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record sᴘ 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16748.m3u8
+#EXTINF:-1 cuid="455" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record sᴘ 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3836.m3u8
-#EXTINF:-1 cuid="455" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record ʀᴊ 🇧🇷
+#EXTINF:-1 cuid="456" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record ʀᴊ 🇧🇷
 https://gerenciar.vivatele.com/viva_padrao/viva2384/13.m3u8
-#EXTINF:-1 cuid="456" tvg-name="Record MT 🇧🇷" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record MT 🇧🇷
+#EXTINF:-1 cuid="457" tvg-name="Record MT 🇧🇷" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record MT 🇧🇷
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 cuid="457" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record (PP) 🇧🇷
+#EXTINF:-1 cuid="458" tvg-name="Record" tvg-id="RECORD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="Abertos",Record (PP) 🇧🇷
 http://185.246.208.74:14660
 
 
-#EXTINF:-1 cuid="458" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
-https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 cuid="459" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
-http://185.246.208.74:14367
+https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 cuid="460" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
-http://185.236.183.117:14597
+http://185.246.208.74:14367
 #EXTINF:-1 cuid="461" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
-http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16749.m3u8
+http://185.236.183.117:14597
 #EXTINF:-1 cuid="462" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16749.m3u8
+#EXTINF:-1 cuid="463" tvg-name="SBT 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT 🇧🇷
 http://nxt.plus:8080/live/olmos/1234guz/51503.m3u8
-#EXTINF:-1 cuid="463" tvg-name="SBT ʀᴊ 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT ʀᴊ 🇧🇷
+#EXTINF:-1 cuid="464" tvg-name="SBT ʀᴊ 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT ʀᴊ 🇧🇷
 https://gerenciar.vivatele.com/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 cuid="464" tvg-name="SBT Internacional 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Internacional 🇧🇷
+#EXTINF:-1 cuid="465" tvg-name="SBT Internacional 🇧🇷" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Internacional 🇧🇷
 https://amg01412-xiaomiasia-sbtintl-xiaomi-g7l2h.amagi.tv/playlist/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
-#EXTINF:-1 cuid="465" tvg-chno="364" tvg-name="SBT MT" tvg-id="SBTSP" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT MT 🇧🇷
+#EXTINF:-1 cuid="466" tvg-chno="364" tvg-name="SBT MT" tvg-id="SBTSP" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT MT 🇧🇷
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 cuid="466" tvg-name="SBT Interior" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Interior 🇧🇷
+#EXTINF:-1 cuid="467" tvg-name="SBT Interior" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Interior 🇧🇷
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 cuid="467" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Interior 🇧🇷
+#EXTINF:-1 cuid="468" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT Interior 🇧🇷
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-#EXTINF:-1 cuid="468" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT (TV Cidade Verde) 🇧🇷
+#EXTINF:-1 cuid="469" tvg-name="SBT" tvg-id="SBT" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Abertos",SBT (TV Cidade Verde) 🇧🇷
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 
