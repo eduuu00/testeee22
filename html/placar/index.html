@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Controle do Placar</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      font-weight: bold;
+      background: #f3f3f3;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .botoes {
+      margin-top: 20px;
+    }
+
+    button {
+      font-size: 1.2rem;
+      margin: 5px;
+      padding: 10px 20px;
+      cursor: pointer;
+      background: rgb(100, 64, 230);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+
+    button:hover {
+      background: #555;
+    }
+
+    .section {
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Placares - Olimpíadas do Jesu</h1>
+    <div class="section">
+    <h2>Placares</h2>
+    <button onclick="window.open('placar-futhandebol.html', '_blank')">Placar Fut/Handebol</button>
+    <button onclick="window.open('placar-basquete.html', '_blank')">Placar Basquete</button>
+    <button onclick="window.open('placar-volei.html', '_blank')">Placar Vôlei</button>
+  </div>
+
+  <div class="section">
+    <h2>Controles</h2>
+    <button onclick="window.open('controle-fthdbol.html', '_blank')">Controle Fut/Handebol</button>
+    <button onclick="window.open('controle-basquete.html', '_blank')">Controle Basquete</button>
+    <button onclick="window.open('controle-volei.html', '_blank')">Controle Vôlei</button>
+  </div>
