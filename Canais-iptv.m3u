@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 25/05 17:30
+# Canais IPTV - Atualizado: 25/05 18:20
 
 
 --- PORTUGAL
@@ -1517,7 +1517,7 @@ http://185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1 cuid="586" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.iptveditor.com/odisea.png" group-title="Espanha",Odisea 🇪🇸
 http://185.189.225.150:85/odisea/index.m3u8
 
-#EXTINF:-1 cuid="587" tvg-name="" tvg-id="Syfy.es" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="Espanha",SYFY 🇪🇸
+#EXTINF:-1 cuid="587" tvg-name="SYFY" tvg-id="Syfy.es" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="Espanha",SYFY 🇪🇸
 http://185.189.225.150:85/syfy/index.m3u8
 
 #EXTINF:-1 cuid="588" tvg-name="Nova" tvg-id="Nova.TV" tvg-logo="https://logo.iptveditor.com/nova.png" group-title="Espanha",Nova 🇪🇸
@@ -2053,154 +2053,156 @@ http://fonte.lista.luxe/live/iptvgood/101011/3977.m3u8
 
 
 #EXTINF:-1 cuid="820" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
-http://15.235.15.230:14043
+https://aovivo.doozytv.com.br/31025556/10151114/playlist.m3u8
 #EXTINF:-1 cuid="821" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
-http://new.m3u8.one/bandsport/index.m3u8
+http://15.235.15.230:14043
 #EXTINF:-1 cuid="822" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
-http://new.ejaculacaoretardada.site/bandsport/index.m3u8
+http://new.m3u8.one/bandsport/index.m3u8
 #EXTINF:-1 cuid="823" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
-http://185.236.183.117:14048
+http://new.ejaculacaoretardada.site/bandsport/index.m3u8
 #EXTINF:-1 cuid="824" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
+http://185.236.183.117:14048
+#EXTINF:-1 cuid="825" tvg-name="Band Sports 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Esportes",Band Sports 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/6788.m3u8
 
 
-#EXTINF:-1 cuid="826" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
-http://15.235.15.230:14047
-#EXTINF:-1 cuid="826" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
-http://new.m3u8.one/sportv/index.m3u8
 #EXTINF:-1 cuid="827" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
-http://new.ejaculacaoretardada.site/sportv/index.m3u8
+http://15.235.15.230:14047
 #EXTINF:-1 cuid="828" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
-http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16753.m3u8
+http://new.m3u8.one/sportv/index.m3u8
 #EXTINF:-1 cuid="829" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
+http://new.ejaculacaoretardada.site/sportv/index.m3u8
+#EXTINF:-1 cuid="830" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16753.m3u8
+#EXTINF:-1 cuid="831" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 🇧🇷
 http://185.236.183.117:14644
 
-#EXTINF:-1 cuid="830" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 2 🇧🇷
-http://15.235.15.230:14050
-#EXTINF:-1 cuid="831" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 2 🇧🇷
-http://new.m3u8.one/sportv2/index.m3u8
 #EXTINF:-1 cuid="832" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 2 🇧🇷
-http://new.ejaculacaoretardada.site/sportv2/index.m3u8
+http://15.235.15.230:14050
 #EXTINF:-1 cuid="833" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 2 🇧🇷
+http://new.m3u8.one/sportv2/index.m3u8
+#EXTINF:-1 cuid="834" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 2 🇧🇷
+http://new.ejaculacaoretardada.site/sportv2/index.m3u8
+#EXTINF:-1 cuid="835" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 2 🇧🇷
 http://185.236.183.117:14647
 
-#EXTINF:-1 cuid="834" tvg-name="Sportv 3 🇧🇷" tvg-id="SPORTV3" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 3 🇧🇷
-http://15.235.15.230:14053
-#EXTINF:-1 cuid="835" tvg-name="Sportv 3 🇧🇷" tvg-id="SPORTV3" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 3 🇧🇷
-http://new.m3u8.one/sportv3/index.m3u8
 #EXTINF:-1 cuid="836" tvg-name="Sportv 3 🇧🇷" tvg-id="SPORTV3" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 3 🇧🇷
-http://new.ejaculacaoretardada.site/sportv3/index.m3u8
+http://15.235.15.230:14053
 #EXTINF:-1 cuid="837" tvg-name="Sportv 3 🇧🇷" tvg-id="SPORTV3" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 3 🇧🇷
+http://new.m3u8.one/sportv3/index.m3u8
+#EXTINF:-1 cuid="838" tvg-name="Sportv 3 🇧🇷" tvg-id="SPORTV3" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 3 🇧🇷
+http://new.ejaculacaoretardada.site/sportv3/index.m3u8
+#EXTINF:-1 cuid="839" tvg-name="Sportv 3 🇧🇷" tvg-id="SPORTV3" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Esportes",Sportv 3 🇧🇷
 http://185.236.183.117:14651
 
-#EXTINF:-1 cuid="838" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
-http://15.235.15.230:14020
-#EXTINF:-1 cuid="839" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
-http://new.m3u8.one/pre1/index.m3u8
 #EXTINF:-1 cuid="840" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
-http://new.ejaculacaoretardada.site/pre1/index.m3u8
+http://15.235.15.230:14020
 #EXTINF:-1 cuid="841" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
-http://185.236.183.118:14508
+http://new.m3u8.one/pre1/index.m3u8
 #EXTINF:-1 cuid="842" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
+http://new.ejaculacaoretardada.site/pre1/index.m3u8
+#EXTINF:-1 cuid="843" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
+http://185.236.183.118:14508
+#EXTINF:-1 cuid="844" tvg-name="Premiere Clubes 🇧🇷" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere Clubes 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3855.m3u8
 
-#EXTINF:-1 cuid="843" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
-http://new.m3u8.one/pre2/index.m3u8
-#EXTINF:-1 cuid="844" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
-http://new.ejaculacaoretardada.site/pre2/index.m3u8
 #EXTINF:-1 cuid="845" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
-http://185.236.183.118:14512
+http://new.m3u8.one/pre2/index.m3u8
 #EXTINF:-1 cuid="846" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
+http://new.ejaculacaoretardada.site/pre2/index.m3u8
+#EXTINF:-1 cuid="847" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
+http://185.236.183.118:14512
+#EXTINF:-1 cuid="848" tvg-name="Premiere 2" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 2 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3853.m3u8
 
-#EXTINF:-1 cuid="847" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
-http://new.m3u8.one/pre3/index.m3u8
-#EXTINF:-1 cuid="848" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
-http://new.ejaculacaoretardada.site/pre3/index.m3u8
 #EXTINF:-1 cuid="849" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
-http://185.236.183.118:14516
+http://new.m3u8.one/pre3/index.m3u8
 #EXTINF:-1 cuid="850" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
+http://new.ejaculacaoretardada.site/pre3/index.m3u8
+#EXTINF:-1 cuid="851" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
+http://185.236.183.118:14516
+#EXTINF:-1 cuid="852" tvg-name="Premiere 3" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 3 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3851.m3u8
 
-#EXTINF:-1 cuid="851" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
-http://new.m3u8.one/pre4/index.m3u8
-#EXTINF:-1 cuid="852" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
-http://new.ejaculacaoretardada.site/pre4/index.m3u8
 #EXTINF:-1 cuid="853" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
-http://185.236.183.118:14520
+http://new.m3u8.one/pre4/index.m3u8
 #EXTINF:-1 cuid="854" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
+http://new.ejaculacaoretardada.site/pre4/index.m3u8
+#EXTINF:-1 cuid="855" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
+http://185.236.183.118:14520
+#EXTINF:-1 cuid="856" tvg-name="Premiere 4" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 4 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3849.m3u8
 
-#EXTINF:-1 cuid="855" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
-http://new.m3u8.one/pre5/index.m3u8
-#EXTINF:-1 cuid="856" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
-http://new.ejaculacaoretardada.site/pre5/index.m3u8
 #EXTINF:-1 cuid="857" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
-http://185.236.183.118:14524
+http://new.m3u8.one/pre5/index.m3u8
 #EXTINF:-1 cuid="858" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+http://new.ejaculacaoretardada.site/pre5/index.m3u8
+#EXTINF:-1 cuid="859" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
+http://185.236.183.118:14524
+#EXTINF:-1 cuid="860" tvg-name="Premiere 5" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 5 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3847.m3u8
 
-#EXTINF:-1 cuid="859" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
-http://new.m3u8.one/pre6/index.m3u8
-#EXTINF:-1 cuid="860" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
-http://new.ejaculacaoretardada.site/pre6/index.m3u8
 #EXTINF:-1 cuid="861" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
-http://185.236.183.118:14528
+http://new.m3u8.one/pre6/index.m3u8
 #EXTINF:-1 cuid="862" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
+http://new.ejaculacaoretardada.site/pre6/index.m3u8
+#EXTINF:-1 cuid="863" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
+http://185.236.183.118:14528
+#EXTINF:-1 cuid="864" tvg-name="Premiere 6" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 6 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3844.m3u8
 
-#EXTINF:-1 cuid="863" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
-http://185.246.208.74:14870
-#EXTINF:-1 cuid="864" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
-http://new.m3u8.one/pre7/index.m3u8
 #EXTINF:-1 cuid="865" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
-http://new.ejaculacaoretardada.site/pre7/index.m3u8
+http://185.246.208.74:14870
 #EXTINF:-1 cuid="866" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
+http://new.m3u8.one/pre7/index.m3u8
+#EXTINF:-1 cuid="867" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
+http://new.ejaculacaoretardada.site/pre7/index.m3u8
+#EXTINF:-1 cuid="868" tvg-name="Premiere 7" tvg-id="PREMIERE" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="Esportes",Premiere 7 🇧🇷
 http://fonte.lista.luxe/live/iptvgood/101011/3843.m3u8
 
-#EXTINF:-1 cuid="867" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
-http://15.235.15.230:14046
-#EXTINF:-1 cuid="868" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
-http://185.236.183.117:14124
 #EXTINF:-1 cuid="869" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
-http://fonte.lista.luxe/live/iptvgood/101011/4869.m3u8
+http://15.235.15.230:14046
 #EXTINF:-1 cuid="870" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
-http://nxt.plus:8080/live/olmos/1234guz/51471.m3u8
+http://185.236.183.117:14124
 #EXTINF:-1 cuid="871" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
+http://fonte.lista.luxe/live/iptvgood/101011/4869.m3u8
+#EXTINF:-1 cuid="872" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
+http://nxt.plus:8080/live/olmos/1234guz/51471.m3u8
+#EXTINF:-1 cuid="873" tvg-name="Combate" tvg-id="COMBATE" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Esportes",Combate 🇧🇷
 http://wovaer.com/live/K8N7fg/7E5hyV/112083.m3u8
 
-#EXTINF:-1 cuid="872" tvg-name="Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Off 🇧🇷
+#EXTINF:-1 cuid="874" tvg-name="Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Off 🇧🇷
 http://15.235.11.7:14075
-#EXTINF:-1 cuid="873" tvg-name="Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Off 🇧🇷
+#EXTINF:-1 cuid="875" tvg-name="Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="Esportes",Off 🇧🇷
 http://15.235.11.7:14076
 
-#EXTINF:-1 cuid="874" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 🇧🇷
+#EXTINF:-1 cuid="876" tvg-name="Nosso Futebol" tvg-id="NOSSOFUTEBOL" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png" group-title="Esportes",Nosso Futebol+ 🇧🇷
 http://15.235.9.200:14069
 
-#EXTINF:-1 cuid="875" tvg-name="Cazé TV 🇧🇷 ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-title="Esportes",Cazé TV 🇧🇷 ⚽️
+#EXTINF:-1 cuid="877" tvg-name="Cazé TV 🇧🇷 ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-title="Esportes",Cazé TV 🇧🇷 ⚽️
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 cuid="877" tvg-name="Disney+ 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 🇧🇷 ⚽️
-http://185.236.183.118:14044
 #EXTINF:-1 cuid="878" tvg-name="Disney+ 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 🇧🇷 ⚽️
+http://185.236.183.118:14044
+#EXTINF:-1 cuid="879" tvg-name="Disney+ 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/8100.m3u8
-#EXTINF:-1 cuid="879" tvg-name="Disney+ 2 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 2 🇧🇷 ⚽️
-http://185.236.183.118:14045
 #EXTINF:-1 cuid="880" tvg-name="Disney+ 2 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 2 🇧🇷 ⚽️
+http://185.236.183.118:14045
+#EXTINF:-1 cuid="881" tvg-name="Disney+ 2 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 2 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/8101.m3u8
-#EXTINF:-1 cuid="881" tvg-name="Disney+ 3 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 3/PV 🇧🇷 ⚽️
-http://185.236.183.118:14046
 #EXTINF:-1 cuid="882" tvg-name="Disney+ 3 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 3/PV 🇧🇷 ⚽️
+http://185.236.183.118:14046
+#EXTINF:-1 cuid="883" tvg-name="Disney+ 3 🇧🇷 ⚽️" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Esportes",Disney+ 3/PV 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/8102.m3u8
 
-#EXTINF:-1 cuid="883" tvg-name="Prime Video 🇧🇷 ⚽️" tvg-logo="https://img.icons8.com/?size=512&id=Rs68BrhxH0XZ&format=png" group-title="Esportes",Prime Video 🇧🇷 ⚽️
-http://185.236.183.118:14047
 #EXTINF:-1 cuid="884" tvg-name="Prime Video 🇧🇷 ⚽️" tvg-logo="https://img.icons8.com/?size=512&id=Rs68BrhxH0XZ&format=png" group-title="Esportes",Prime Video 🇧🇷 ⚽️
+http://185.236.183.118:14047
+#EXTINF:-1 cuid="885" tvg-name="Prime Video 🇧🇷 ⚽️" tvg-logo="https://img.icons8.com/?size=512&id=Rs68BrhxH0XZ&format=png" group-title="Esportes",Prime Video 🇧🇷 ⚽️
 http://fonte.lista.luxe/live/iptvgood/101011/8103.m3u8
 
-#EXTINF:-1 cuid="885" tvg-name="Woohoo 🇧🇷" tvg-id="WOOHOO" tvg-logo="https://logo.iptveditor.com/woohoo.png" group-title="Entretenimento",Woohoo 🇧🇷
-http://15.235.11.7:14159
 #EXTINF:-1 cuid="886" tvg-name="Woohoo 🇧🇷" tvg-id="WOOHOO" tvg-logo="https://logo.iptveditor.com/woohoo.png" group-title="Entretenimento",Woohoo 🇧🇷
+http://15.235.11.7:14159
+#EXTINF:-1 cuid="887" tvg-name="Woohoo 🇧🇷" tvg-id="WOOHOO" tvg-logo="https://logo.iptveditor.com/woohoo.png" group-title="Entretenimento",Woohoo 🇧🇷
 https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
 
 
