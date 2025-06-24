@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 23/06 20:40
+# Canais IPTV - Atualizado: 23/06 21:10
 
 
 --- PORTUGAL
@@ -2252,8 +2252,6 @@ http://213.91.178.133:8000/play/a0bb
 
 #EXTINF:-1 cuid="728" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia",Rai 2 🇮🇹
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1 cuid="729" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia",Rai 2 🇮🇹
-http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/10091.m3u8
 
 #EXTINF:-1 cuid="730" tvg-name="Rai 3 🇮🇹" tvg-id="Rai3.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp" group-title="Italia",Rai 3 🇮🇹
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
@@ -2295,17 +2293,17 @@ https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
 
 --- NOVELAS
 
-#EXTINF:-1 cuid="744" tvg-name="Globoplay Novelas 🇧🇷" tvg-id="São.Paulo/SP..Viva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1320px-Globoplay_Novelas.png" group-title="Novelas",Globoplay Novelas 🇧🇷
+#EXTINF:-1 cuid="743" tvg-name="Globoplay Novelas 🇧🇷" tvg-id="São.Paulo/SP..Viva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1320px-Globoplay_Novelas.png" group-title="Novelas",Globoplay Novelas 🇧🇷
 http://79.127.238.228:14455
-#EXTINF:-1 cuid="745" tvg-name="Globoplay Novelas 🇧🇷" tvg-id="São.Paulo/SP..Viva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1320px-Globoplay_Novelas.png" group-title="Novelas",Globoplay Novelas 🇧🇷
+#EXTINF:-1 cuid="744" tvg-name="Globoplay Novelas 🇧🇷" tvg-id="São.Paulo/SP..Viva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1320px-Globoplay_Novelas.png" group-title="Novelas",Globoplay Novelas 🇧🇷
 http://185.236.183.117:14756
+#EXTINF:-1 cuid="745" tvg-name="Globoplay Novelas 🇧🇷" tvg-id="São.Paulo/SP..Viva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1320px-Globoplay_Novelas.png" group-title="Novelas",Globoplay Novelas 🇧🇷
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/81193.m3u8
+#EXTINF:-1 cuid="746" tvg-name="Globoplay Novelas 🇧🇷" tvg-id="São.Paulo/SP..Viva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1320px-Globoplay_Novelas.png" group-title="Novelas",Globoplay Novelas 🇧🇷
+http://zkbvzkj.megahdtv.xyz/live/1103581436/4099381829/162560.m3u8
 
-#EXTINF:-1 cuid="746" tvg-name="TNT Novelas 🇧🇷" tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇧🇷
-http://185.236.183.117:14668
 #EXTINF:-1 cuid="747" tvg-name="TNT Novelas 🇧🇷" tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇧🇷
-http://fonte.lista.luxe/live/iptvgood/101011/7887.m3u8
-#EXTINF:-1 cuid="748" tvg-name="TNT Novelas 🇧🇷" tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇧🇷
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96444.m3u8
+http://185.236.183.117:14668
 
 #EXTINF:-1 cuid="749" tvg-name="Malhação Fast 🇧🇷" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD1700009UV_20241211T010004SQUARE.png" group-title="Novelas",Malhação Fast 🇧🇷
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
@@ -2658,19 +2656,19 @@ https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 #EXTINF:-1 cuid="903" tvg-name="Claro Sports" tvg-id="CLAROSPORTS.uy" tvg-logo="https://logo.iptveditor.com/clarosports.png" group-title="Esportes",Claro Sports
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8
+#
 
 #EXTINF:-1 cuid="904" tvg-name="Tyc Sports" tvg-id="TyC.Sports.International(TYCS).co" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Esportes",Tyc Sports 🇦🇷
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/79788.m3u8
 
 #EXTINF:-1 cuid="905" tvg-name="ESPN.Deportes" tvg-id="ESPN.Deportes.us" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="Esportes",ESPN Deportes 🇲🇽
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8
+#
 
 #EXTINF:-1 cuid="906" tvg-name="ESPN Premium" tvg-id="ESPN Premium AR" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="Esportes",ESPN Premium 🇦🇷
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
+#
 
 #EXTINF:-1 cuid="907" tvg-name="W-Sport 🇺🇸" tvg-id="W-Sport.pt" tvg-logo="https://cm-inter.xyz/Logos/logo2nd.png" group-title="Esportes",W-Sport 🇺🇸
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
+#
 
 #EXTINF:-1 cuid="908" tvg-name="Eurosport 1 🇬🇧🇷🇺" tvg-id="Eurosport.es" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Esportes",Eurosport 1 🇬🇧🇷🇺
 http://185.189.225.150/Eurosport1/index.m3u8
@@ -2707,13 +2705,13 @@ http://ua.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtr
 http://ua.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtkwT58xCKGmUb76YLA0yX9SnAuOF3AErdGHBsSDLGYSl
 
 #EXTINF:-1 cuid="920" tvg-name="TUDN 🇺🇸" tvg-id="TUDN.us" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Esportes",TUDN 🇺🇸
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8
+http://cord-cutter.net:8080/live/cQnq6G/652882/82241.m3u8
 
 
 ---
 
 #EXTINF:-1 cuid="924" tvg-name="Goltv 🇪🇨" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="Esportes",Goltv 🇪🇨
-http://tv.iprotv.live/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/1040.m3u8
 #EXTINF:-1 cuid="925" tvg-name="Goltv 🇺🇸" tvg-id="GOL.TV.uy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="Esportes",Goltv 🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8
 
@@ -2721,9 +2719,9 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8
 http://ua.1usd.tv:34000/ch2006/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtnDqWF_v_v7VMsmVq4PVsMKczhGxhL7TKlJFypvq3bcH
 
 #EXTINF:-1 cuid="928" tvg-name="Eleven sports 2 🇵🇱" tvg-id="Eleven.Sports.2.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="Esportes",Eleven sports 2 🇵🇱
-http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16498.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/931.m3u8
 #EXTINF:-1 cuid="929" tvg-name="Eleven sports 3 🇵🇱" tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="Esportes",Eleven sports 3 🇵🇱
-http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/16499.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/930.m3u8
 
 #EXTINF:-1 cuid="935" tvg-name="L'Équipe 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.iptveditor.com/l'equipe.png" group-title="Esportes",L'Équipe 🇫🇷
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
