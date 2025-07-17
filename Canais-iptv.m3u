@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 17/07
+# Canais IPTV - Atualizado: 17/07 10:30
 
 
 --- PORTUGAL
@@ -2300,20 +2300,20 @@ http://185.236.183.117:14732
 
 --- ADULTO
 
-#EXTINF:-1 cuid="1014" tvg-name="Playboy TV 🇧🇷" tvg-id="São.Paulo/SP..Playboy.TV..br" tvg-logo="https://logo.iptveditor.com/playboytv.png" group-title="Adulto",Playboy TV 🇧🇷
+#EXTINF:-1 cuid="1014" tvg-name="Playboy TV 🇧🇷" tvg-id="São.Paulo/SP..Playboy.TV..br" tvg-logo="https://logo.iptveditor.com/playboytv.png" group-title="XXX-Adulto",Playboy TV 🇧🇷
 http://svrhost.club/live/C96VW13E/DPIZ4JSVM/63.m3u8
 
-#EXTINF:-1 cuid="1015" tvg-name="Sextreme 🇧🇷" tvg-id="São.Paulo/SP..Sextreme.br" tvg-logo="https://logo.iptveditor.com/sextreme.png" group-title="Adulto",Sextreme 🇧🇷
+#EXTINF:-1 cuid="1015" tvg-name="Sextreme 🇧🇷" tvg-id="São.Paulo/SP..Sextreme.br" tvg-logo="https://logo.iptveditor.com/sextreme.png" group-title="XXX-Adulto",Sextreme 🇧🇷
 http://185.236.183.118:14626
-#EXTINF:-1 cuid="1016" tvg-name="Sextreme 🇧🇷" tvg-id="São.Paulo/SP..Sextreme.br" tvg-logo="https://logo.iptveditor.com/sextreme.png" group-title="Adulto",Sextreme 🇧🇷
+#EXTINF:-1 cuid="1016" tvg-name="Sextreme 🇧🇷" tvg-id="São.Paulo/SP..Sextreme.br" tvg-logo="https://logo.iptveditor.com/sextreme.png" group-title="XXX-Adulto",Sextreme 🇧🇷
 http://svrhost.club/live/C96VW13E/DPIZ4JSVM/43.m3u8
 
-#EXTINF:-1 cuid="1017" tvg-name="Sexy Hot 🇧🇷" tvg-id="São.Paulo/SP..Sexy.Hot.br" tvg-logo="https://logo.iptveditor.com/sexyhot.png" group-title="Adulto",Sexy Hot 🇧🇷
+#EXTINF:-1 cuid="1017" tvg-name="Sexy Hot 🇧🇷" tvg-id="São.Paulo/SP..Sexy.Hot.br" tvg-logo="https://logo.iptveditor.com/sexyhot.png" group-title="XXX-Adulto",Sexy Hot 🇧🇷
 http://185.236.183.118:14629
-#EXTINF:-1 cuid="1018" tvg-name="Sexy Hot 🇧🇷" tvg-id="São.Paulo/SP..Sexy.Hot.br" tvg-logo="https://logo.iptveditor.com/sexyhot.png" group-title="Adulto",Sexy Hot 🇧🇷
+#EXTINF:-1 cuid="1018" tvg-name="Sexy Hot 🇧🇷" tvg-id="São.Paulo/SP..Sexy.Hot.br" tvg-logo="https://logo.iptveditor.com/sexyhot.png" group-title="XXX-Adulto",Sexy Hot 🇧🇷
 http://svrhost.club/live/C96VW13E/DPIZ4JSVM/42.m3u8
 
-#EXTINF:-1 cuid="1019" tvg-name="Venus 🇧🇷" tvg-id="São.Paulo/SP..Venus.br" tvg-logo="https://logo.iptveditor.com/venus.png" group-title="Adulto",Venus 🇧🇷
+#EXTINF:-1 cuid="1019" tvg-name="Venus 🇧🇷" tvg-id="São.Paulo/SP..Venus.br" tvg-logo="https://logo.iptveditor.com/venus.png" group-title="XXX-Adulto",Venus 🇧🇷
 http://185.236.183.117:14752
 
 
