@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz,https://i.mjh.nz/Stirr/all.xml.gz,https://tvpass.org/epg.xml"
 
-# Canais IPTV - Atualizado: 21/07 15:20
+# Canais IPTV - Atualizado: 21/07 15:30
 
 
 --- PORTUGAL
@@ -828,7 +828,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869
 --- ANIME
 
 #EXTINF:-1 cuid="316" tvg-name="Adult Swim 🇧🇷" tvg-id="Adult.Swim.HD.br" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="Anime",Adult Swim 🇧🇷
-#
+http://altv1.top/live/rodrigoasencio01/187952243/2138.m3u8
 
 #EXTINF:-1 cuid="317" tvg-name="loading tv 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="Anime",loading tv (cc 🇧🇷)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
